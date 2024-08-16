@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @BadreddineBoukemouche
-- 👀 I’m interested in Construction Designer
-- 🌱 I’m currently learning Construction Works Manager
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: badro
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Civil engineering
+- 🌱 I’m currently learning Technical drawings and reinforced concrete projection and manage building works
+- 😄 Pronouns: Badro
+- ⚡ Fun fact: Crazy boy 
 
 <!---
 BadreddineBoukemouche/BadreddineBoukemouche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
